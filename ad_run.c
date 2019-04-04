@@ -18,11 +18,11 @@ int main()
     function apar() {\
         echo '##=> Aparma basladi! <=##';\
         tikla;\
-        uyu 1;\
+        uyu 33;\
         geri_tusu;\
         uyu 1;\
         tikla;\
-        uyu 1;\
+        uyu 18;\
         echo '##=> Aparma bitti! <=##';\
     };\
     while true; do apar; done\
